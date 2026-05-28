@@ -1,5 +1,3 @@
-# list-shuffler-pro
-Aplikasi desktop berbasis Python (Tkinter) untuk mengacak, membagi baris teks ke beberapa kolom, dan mengekspornya langsung ke file Excel (.xlsx).
 # List Shuffler Pro
 
 **List Shuffler Pro** adalah aplikasi berbasis desktop (GUI) menggunakan Python dan Tkinter yang berfungsi untuk merapikan, membagi, dan mengacak baris teks (list) lalu mengekspornya langsung ke dalam format file Excel (`.xlsx`).
