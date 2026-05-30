@@ -29,16 +29,16 @@ cd list-shuffler-pro
 ### 2. Instal Library yang Dibutuhkan
 
 Aplikasi ini membutuhkan library openpyxl untuk memproses file Excel[cite: 1]. Instal melalui terminal/CMD:
-Bash
-
+```Bash
 pip install openpyxl
+```
 
 ### 3. Jalankan Aplikasi
 
 Jalankan script utama aplikasi dengan perintah berikut:
-Bash
-
-python rapi_list_acak3.py
+```Bash
+python list-shuffler-pro.py
+```
 
 🛠️ Teknologi yang Digunakan
 
